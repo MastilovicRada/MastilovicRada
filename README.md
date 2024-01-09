@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rada Mastilović</h1>
 <h3 align="center">A Junior Fronted Developer</h3>
-<img align="right" alt=Coding width="400" src="https://dribbble.com/shots/15215756-Coding-Animation-Concept">
+<img align="right" alt=Coding width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
 
 
 - 📫 How to reach me **rada.mastilovic94@gmail.com**
